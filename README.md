@@ -1,7 +1,13 @@
-Moodle Mobile 2.x
+FSD Moodle Mobile 2.x
 =================
+Updating ionic and cordova
+sudo npm update -g cordova
+sudo npm update -g ioni
+ionic platform update android
+ionic platform update ios
+ 
 
-This is the primary repository of source code for the official Moodle Mobile app version 2.x.
+This is the primary repository of source code for the official FSD Moodle apps version 2.x.
 
 * [User documentation](http://docs.moodle.org/en/Moodle_Mobile)
 * [Developer documentation](http://docs.moodle.org/dev/Moodle_Mobile)
